@@ -1,5 +1,5 @@
 {
-  "name": "template-typescript-npm-cli",
+  "name": "npm-cli-web-proxy-script-on-cloudflare-workers",
   "version": "1.0.8",
   "description": "",
   "main": "bin/index.js",
@@ -15,18 +15,18 @@
     "test": "jest"
   },
   "bin": {
-    "template-typescript-npm-cli": "./bin/adapter/entry-points/cli/index.js"
+    "npm-cli-web-proxy-script-on-cloudflare-workers": "./bin/adapter/entry-points/cli/index.js"
   },
   "types": "types/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/HiromiShikata/template-typescript-npm-cli.git"
+    "url": "git+https://github.com/HiromiShikata/npm-cli-web-proxy-script-on-cloudflare-workers.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/HiromiShikata/template-typescript-npm-cli/issues"
+    "url": "https://github.com/HiromiShikata/npm-cli-web-proxy-script-on-cloudflare-workers/issues"
   },
   "release": {
     "plugins": [
@@ -39,7 +39,7 @@
       "main"
     ]
   },
-  "homepage": "https://github.com/HiromiShikata/template-typescript-npm-cli#readme",
+  "homepage": "https://github.com/HiromiShikata/npm-cli-web-proxy-script-on-cloudflare-workers#readme",
   "devDependencies": {
     "@semantic-release/changelog": "^6.0.3",
     "@semantic-release/commit-analyzer": "^13.0.0",

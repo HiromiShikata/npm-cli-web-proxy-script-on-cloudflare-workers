@@ -15,7 +15,6 @@ Welcome to npm-cli-web-proxy-script-on-cloudflare-workers, this template os for 
 1. Set secrets (optional)
 
    https://github.com/HiromiShikata/npm-cli-web-proxy-script-on-cloudflare-workers/settings/secrets/actions
-
    - [GH_TOKEN](https://github.com/settings/tokens)
    - [NPM_TOKEN](https://www.npmjs.com/settings/hiromi/tokens)
    - [RELEASE_APP_PRIVATE_KEY](https://github.com/settings/apps/semantic-release-changelog)
